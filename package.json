@@ -23,7 +23,7 @@
     "uglify-js": "^2.6.4"
   },
   "devDependencies": {
-    "nodemon": "^2.0.3"
+    "nodemon": "^2.0.20"
   },
   "repository": {
     "type": "git",
